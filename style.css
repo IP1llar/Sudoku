@@ -1,0 +1,27 @@
+.sudoku{
+    
+  width: 450px;
+  height: 450px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.center-panel{
+  align-items: center;
+  border-radius: 4px;
+  
+
+}
+.navigation{
+  display: flex;
+  align-items:center;
+}
+
+.number{
+border-radius: 1px;
+  border-color: rgb(65, 63, 63);
+  padding:10px;
+  border: 1px solid black;
+}
+
+
